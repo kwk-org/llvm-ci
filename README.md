@@ -36,7 +36,7 @@ This project tries to answer these simple questions by replicating the main comp
 
 I use `docker` and `docker-compose` to as my container and orchestration tool. I only have limited amount of testing capabilities due to time constraints. Feel free to experiment with `podman` and `podman-compose`. The `Makefile`s are agnostic to what tool you use. I try to not use any fancy features from `docker` or `docker-compose` for which there's no equivalent in `podman` or `podman-compose` but I cannot guarantee that everything will be working.
 
-# :notes: Setup
+# Setup
 
 ## One time preparation
 
